@@ -55,7 +55,7 @@ nav {
 
 .header-image {
     height: 1000px;
-    background-image: url(/images/landing.jpg);
+    background-image: url(../images/landing.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
